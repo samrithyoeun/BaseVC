@@ -1,15 +1,22 @@
 PODS:
-  - Base (0.1.0)
+  - Alamofire (4.9.0)
+  - Base (0.0.1):
+    - Alamofire (= 4.9.0)
 
 DEPENDENCIES:
   - Base (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
 
 EXTERNAL SOURCES:
   Base:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Base: fdb671d749b3e8d4665257fcc5fd491d59c2fe52
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  Base: eb59397132a7771378cd6f85e5751e99a7b3f8db
 
 PODFILE CHECKSUM: 1c14946f962fb95a6ac1a36825680ab2416ba1bb
 
